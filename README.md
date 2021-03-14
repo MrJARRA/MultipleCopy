@@ -1,6 +1,12 @@
 # MultipleCopy
+   
+   sometimes you need to make changes in component  at mode playing, but the problem you 
+   can't save these changes at  mode playing, so the solution is to copy component but you 
+   can't copy more than one component.
+   
    these tools give you the Possibility to copy multiple components in 
    different objects or a single object (mode editor/mode Playing), at the same time.
+
    
 # MultipleCopy Options
 ## copy  component values & paste & clear component values in history
